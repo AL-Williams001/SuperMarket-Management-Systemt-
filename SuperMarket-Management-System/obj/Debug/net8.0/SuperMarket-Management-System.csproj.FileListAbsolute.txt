@@ -24,3 +24,5 @@ C:\Users\Admin\source\repos\MVC\SuperMarket-Management-System\obj\Debug\net8.0\r
 C:\Users\Admin\source\repos\MVC\SuperMarket-Management-System\obj\Debug\net8.0\SuperMarket-Management-System.pdb
 C:\Users\Admin\source\repos\MVC\SuperMarket-Management-System\obj\Debug\net8.0\SuperMarket-Management-System.genruntimeconfig.cache
 C:\Users\Admin\source\repos\MVC\SuperMarket-Management-System\obj\Debug\net8.0\ref\SuperMarket-Management-System.dll
+C:\Users\Admin\source\repos\MVC\SuperMarket-Management-System\obj\Debug\net8.0\SuperMarket-Management-System.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\MVC\SuperMarket-Management-System\obj\Debug\net8.0\SuperMarket-Management-System.RazorAssemblyInfo.cs
