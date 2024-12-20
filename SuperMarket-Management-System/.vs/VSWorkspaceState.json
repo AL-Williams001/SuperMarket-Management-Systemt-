@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Properties",
+    "\\Views",
+    "\\wwwroot",
+    "\\wwwroot\\lib",
+    "\\wwwroot\\lib\\bootstrap"
+  ],
+  "SelectedNode": "\\Properties\\launchSettings.json",
+  "PreviewInSolutionExplorer": false
+}
